@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afed54a239594b8abd631a8047a54987, type: 3}
+  m_Name: WindToolBP
+  m_EditorClassIdentifier: 
+  PackageName: windtool
+  Author: vithamonsta
+  Version: 0.0.2
+  Icon: {fileID: 2800000, guid: ebd63d20db34aeb49be31043fba067ee, type: 3}
+  ReadMe: {fileID: 102900000, guid: e11f31e25f7cc7243a1852ea205bc7df, type: 3}
+  WebsiteURL: 
+  Description: 
+  AdditionalDependencies:
+  - vithamonsta-Simple_Wind_Plugin-0.0.3
+  StripNamespaces: 1
+  AdditionalNamespaces: []
+  ApplyHarmonyPatches: 1
+  BuildItems:
+  - {fileID: 11400000, guid: 5c8d3a79fabffa04caef26cadc4a774a, type: 2}
+  BuildAction: 1
+  OutputProfile: F:/Tools/r2modman/H3VR/profiles/Defaultz
